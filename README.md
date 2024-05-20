@@ -4,7 +4,7 @@ This repository contains a simple yet visually appealing CSS wave effect that ca
 
 ## Preview
 
-![Wave Effect Preview](https://gyanendu01.github.io/CSS-Wave-Effect/)
+[Wave Effect Preview](https://gyanendu01.github.io/CSS-Wave-Effect/)
 
 ## Features
 
